@@ -28,7 +28,7 @@
     "npm": "6.2.0",
     "passwd-user": "2.1.0",
     "pegjs": "0.9.0",
-    "publish-release": "^1.6.0",
+    "publish-release": "^1.6.1",
     "random-seed": "^0.3.0",
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
